@@ -1,5 +1,5 @@
 # wbsps - promo - m166a summing module - 002.jpg
-Wiki page: [M166A](../../../PAGES/M166A.md)
+Wiki page: [M166A](../../../../PAGES/M166A.md)
 
 
 - **Year:** unknown (title block (read by eye))
@@ -47,7 +47,7 @@ WbspsCA
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M166A/wbsps - promo - m166a summing module - 002.jpg",
+ "file": "Modules/AMPLIFIERS/M166A/PHOTOS/wbsps - promo - m166a summing module - 002.jpg",
  "sha256": "9a2048e443f306465f0182a722519ec71ab5edbe68232fd33042e643bba01b4f",
  "kind": "module",
  "models": [

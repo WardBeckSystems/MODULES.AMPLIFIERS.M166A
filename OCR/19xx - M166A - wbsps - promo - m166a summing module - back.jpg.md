@@ -1,5 +1,5 @@
 # 19xx - M166A - wbsps - promo - m166a summing module - back.jpg
-Wiki page: [M166A](../../../PAGES/M166A.md)
+Wiki page: [M166A](../../../../PAGES/M166A.md)
 
 
 - **Year:** unknown (unknown)
@@ -57,7 +57,7 @@ WBS
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M166A/19xx - M166A - wbsps - promo - m166a summing module - back.jpg",
+ "file": "Modules/AMPLIFIERS/M166A/PHOTOS/19xx - M166A - wbsps - promo - m166a summing module - back.jpg",
  "sha256": "e7f45132a31309b4a52f9a03ef9c0d2602379dc2ec4f6990457c45ab4c95b3f0",
  "kind": "module",
  "models": [

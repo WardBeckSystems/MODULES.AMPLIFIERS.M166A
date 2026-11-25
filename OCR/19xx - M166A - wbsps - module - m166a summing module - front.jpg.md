@@ -1,5 +1,5 @@
 # 19xx - M166A - wbsps - module - m166a summing module - front.jpg
-Wiki page: [M166A](../../../PAGES/M166A.md)
+Wiki page: [M166A](../../../../PAGES/M166A.md)
 
 
 - **Year:** unknown (unknown)
@@ -53,7 +53,7 @@ Exceptionally low noise
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M166A/19xx - M166A - wbsps - module - m166a summing module - front.jpg",
+ "file": "Modules/AMPLIFIERS/M166A/PHOTOS/19xx - M166A - wbsps - module - m166a summing module - front.jpg",
  "sha256": "ddcfc0bf92572e73bc87fe1346b98ab401710b3e96e4263029210bb2f824fb37",
  "kind": "module",
  "models": [

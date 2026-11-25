@@ -1,0 +1,83 @@
+{
+ "code": "M166A",
+ "connector": "RTO-144",
+ "type": "Active Summing Module",
+ "series": null,
+ "contacts": "15 contacts",
+ "verified": null,
+ "derived": true,
+ "variant_of": "M166",
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "SUMMING IN 10KΩ",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "+",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M166/M166.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "2",
+   "signal": "SUMMING IN 10KΩ",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "-",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M166/M166.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "10",
+   "signal": "PREAMP OUT 1",
+   "kind": "out",
+   "pair": "A2",
+   "polarity": "+",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M166/M166.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "11",
+   "signal": "PREAMP OUT 1",
+   "kind": "out",
+   "pair": "A2",
+   "polarity": "-",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M166/M166.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "12",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M166/M166.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "15",
+   "signal": "+48 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M166/M166.rto144.json",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M166/M166.rto144.json"
+ ]
+}

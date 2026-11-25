@@ -1,5 +1,5 @@
 # 19xx - M166A - Ward Beck Systems 166A b.jpg
-Wiki page: [M166A](../../../PAGES/M166A.md)
+Wiki page: [M166A](../../../../PAGES/M166A.md)
 
 
 - **Year:** unknown (unknown)
@@ -38,7 +38,7 @@ WBS
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M166A/19xx - M166A - Ward Beck Systems 166A b.jpg",
+ "file": "Modules/AMPLIFIERS/M166A/PHOTOS/19xx - M166A - Ward Beck Systems 166A b.jpg",
  "sha256": "3526bb739e41e0d872637578a1c6d712ed892715344d65ca95a5869edc2b3765",
  "kind": "module",
  "models": [
