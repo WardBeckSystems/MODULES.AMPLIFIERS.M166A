@@ -38,7 +38,7 @@ Exceptionally low noise
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M166A/PHOTOS/19xx - M166A - Ward Beck Systems 166A.jpg",
+ "file": "Modules/AMPLIFIERS/M166A/MANUALS/19xx - M166A - Ward Beck Systems 166A.jpg",
  "sha256": "723babdbba4bc7415414cbc8b57041f6845bab76c7d28cb32e9e63367c56ea8b",
  "kind": "module",
  "models": [
