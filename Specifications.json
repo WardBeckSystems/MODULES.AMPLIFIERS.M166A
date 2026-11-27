@@ -1,0 +1,31 @@
+{
+ "module": "M166A",
+ "title": "",
+ "source": {
+  "file": "PHOTOS/19xx - M166A - wbsps - promo - m166a summing module - back.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.89,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "ohms balanced OUTPUT IMPEDANCE 150 ohms resistive, balanced OUTPUT LEVEL +24dBm maximum INPUT ISOLATION Greater than 1OOdB IkHz PHASING Low terminal of input and low terminal of output are in phase _ POWER REQUIREMENTS 48V dc at 4OmA AMBIENT TEMPERATURE 00 to 60oC DIMENSIONS PC Card 52L x 3VW x 1D inches",
+   "quantities": [
+    {
+     "value": 150,
+     "unit": "ohms"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    },
+    {
+     "value": 48,
+     "unit": "V dc"
+    }
+   ]
+  }
+ ]
+}

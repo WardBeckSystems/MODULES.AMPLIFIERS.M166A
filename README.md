@@ -13,6 +13,20 @@ Ward-Beck Systems M166A. Wiki page: [M166A on WBSps.ca](https://wardbecksystems.
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 15 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [1 topic](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [19xx - M166A - wbsps - promo - m166a summing module - back.jpg](PHOTOS/19xx%20-%20M166A%20-%20wbsps%20-%20promo%20-%20m166a%20summing%20module%20-%20back.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Load impedance** | ohms balanced OUTPUT IMPEDANCE 150 ohms resistive, balanced OUTPUT LEVEL +24dBm maximum INPUT ISOLATION Greater than 1OOdB IkHz PHASING Low terminal of input and low terminal of output are in phase _ POWER REQUIREMENTS 48V dc at 4OmA AMBIENT TEMPERATURE 00 to 60oC DIMENSIONS PC Card 52L x 3VW x 1D inches |
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
