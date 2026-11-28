@@ -1,5 +1,5 @@
 # 19xx - M166A - wbsps - module - m166a summing module - front.jpg
-Wiki page: [M166A](../../../../PAGES/M166A.md)
+Wiki page: [M166A](../)
 
 
 - **Year:** unknown (unknown)

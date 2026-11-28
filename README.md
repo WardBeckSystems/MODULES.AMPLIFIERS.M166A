@@ -1,6 +1,6 @@
 # M166A Active Summing Module · Amplifiers
 
-Ward-Beck Systems M166A. Wiki page: [M166A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M166A.html)
+Ward-Beck Systems M166A. Wiki page: [M166A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M166A-Active-Summing-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

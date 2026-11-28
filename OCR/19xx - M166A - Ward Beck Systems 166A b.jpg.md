@@ -1,5 +1,5 @@
 # 19xx - M166A - Ward Beck Systems 166A b.jpg
-Wiki page: [M166A](../../../../PAGES/M166A.md)
+Wiki page: [M166A](../)
 
 
 - **Year:** unknown (unknown)

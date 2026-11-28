@@ -1,5 +1,5 @@
 # wbsps - promo - m166a summing module - 002.jpg
-Wiki page: [M166A](../../../../PAGES/M166A.md)
+Wiki page: [M166A](../)
 
 
 - **Year:** unknown (title block (read by eye))

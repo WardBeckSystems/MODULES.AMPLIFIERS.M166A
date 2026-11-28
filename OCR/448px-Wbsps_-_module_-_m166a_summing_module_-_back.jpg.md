@@ -1,5 +1,5 @@
 # 448px-Wbsps_-_module_-_m166a_summing_module_-_back.jpg
-Wiki page: [M166A](../../../../PAGES/M166A.md)
+Wiki page: [M166A](../)
 
 
 - **Year:** unknown (title block (read by eye))
